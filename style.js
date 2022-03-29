@@ -1,0 +1,1 @@
+<div style="text-align: center;">Тарас Шевченко</div>
